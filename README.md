@@ -4,7 +4,6 @@
 [![Portfolio](https://img.shields.io/website?color=blue&label=Portfolio&style=flat&up_message=Online&url=https://www.facebook.com)](https://sunil2k1.github.io/myportfolio/)
 ![Visitor Count](https://komarev.com/ghpvc/?username=sunil2k1&color=blue&logo=flat)
 
-<img align='right' src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" width="230">
 <div>
   <a href="https://t.me/Sunil2k1">
   <img align="left" alt="Sunil Kumar G's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
