@@ -4,6 +4,7 @@
 [![Portfolio](https://img.shields.io/website?color=blue&label=Portfolio&style=flat&up_message=Online&url=https://www.facebook.com)](https://sunil2k1.github.io/myportfolio/)
 ![Visitor Count](https://komarev.com/ghpvc/?username=sunil2k1&color=blue&logo=flat)
 
+<img align='right' src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" width="230">
 <div>
   <a href="https://t.me/Sunil2k1">
   <img align="left" alt="Sunil Kumar G's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
@@ -31,7 +32,8 @@
 - 🌱 I'm RedHat Certified System Administrator, for Redhat Enterprise Linux 7.
 - 😄 I'm Currently pursuing B.E Computer Science Engineering(CSE).
 - ⚡ The programming language is known: Java, Python, C.
-- 🔭 My Hobbies are Reading books, Cricket, Developing new skills. 
+- 💬 How to reach me: sunilkpr2k1@gmail.com
+- 📫 My Hobbies are Reading books, Cricket, Developing new skills. 
 
 
 ## My Working Stack:
@@ -58,7 +60,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunil2k1&layout=compact&show_icons=true&title_color=fe6287&icon_color=fe6287&text_color=ffffff&bg_color=0a192f)](https://github.com/Sanchitbajaj02?tab=repositories)
 
 <div align="center">
+  
+  <p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunil2k1&theme=tokyonight" alt="Kunal's Streak">
+</p><br>
 
-### Show some ❤️ by starring some of the repositories!
+## Made with 💖 and ☕
 
 </div>
