@@ -38,7 +38,6 @@
 ## My Working Stack:
 
 <div align="center">
-    <img src="https://img.shields.io/badge/-C++-000000?&style=flat&logo=c%2B%2B&logoColor=0277BD" />
     <img src="https://img.shields.io/badge/-C-000000?&style=flat&logo=c&logoColor=5968BA" />
     <img src="https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=F44336" />
     <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColorhalf=396E9B" /> <br>
