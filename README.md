@@ -1,8 +1,8 @@
 
 ## Hi, I'm [Sunil Kumar G](http://sunil2k1.github.io/myportfolio/) 👋
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+[![Portfolio](https://img.shields.io/website?color=blue&label=Portfolio&style=flat&up_message=Online&url=https://www.facebook.com)](https://sunil2k1.github.io/myportfolio/)
+![Visitor Count](https://komarev.com/ghpvc/?username=sunil2k1&color=blue&logo=flat)
 
 <div>
   <a href="https://t.me/Sunil2k1">
